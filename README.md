@@ -2,7 +2,7 @@
 
 The **Emergent Intelligence Simulator (EIS)** is a Python-based simulation designed to run indefinitely, exploring emergent properties through the interactions of autonomous agents in a dynamic 2D grid environment. Agents evolve, learn, and interact, with a speculative goal of observing complexity that could theoretically lead to Artificial General Intelligence (AGI) or Artificial Superintelligence (ASI).
 
-## Demo
+## Demo ( click for video )
 
 [![Emergent Intelligence Video](https://i.imgur.com/wj6ZzPR.png)](https://i.imgur.com/YujOLgZ.mp4)
 
